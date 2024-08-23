@@ -1,2 +1,2 @@
 # MatiCraft
-MatiCraft Github Page
+Welcome to MatiCraft Github page 
